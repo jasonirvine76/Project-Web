@@ -8,15 +8,9 @@
 
 **Struktur :**
 **Founder (All official Tech-G discord role)**
-
-  Manager : Rzq
-
-  Vice Manager : Kake
-
-  Project Lead : Jes
-
-  Lead Designer : You Lil
-
-  Designer : Bram
-
-  Developer : Nuns
+- Manager : Rzq
+- Vice Manager : Kake
+- Project Lead : Jes
+- Lead Designer : You Lil
+- Designer : Bram
+- Developer : Nuns
